@@ -1,0 +1,182 @@
+{
+  "calc-title": {
+    "en": "Try our loan calculator to discover your opportunities",
+    "es": "Calcula el monto de tu préstamo y estima los pagos mensuales"
+  },
+  "calc-loan-title": {
+    "en": "What home loan amount do you need?",
+    "es": "¿Qué monto de préstamo para viviendas necesitas?"
+  },
+  "calc-loan-subtitle": {
+    "en": "Typical home loan amounts range from a minimum of 5,000 MXN to a maximum of 80,000 MXN.",
+    "es": "Los montos típicos de préstamos para viviendas oscilan entre un mínimo de 5000 MXN y un máximo de 80 000 MXN."
+  },
+  "calc-term-title": {
+    "en": "How many monthly payments do you want to make?",
+    "es": "¿Cuántos pagos mensuales deseas realizar?"
+  },
+  "calc-term-subtitle": {
+    "en": "Typical home loan monthly payments range from a minimum of X months to a maximum of X months.",
+    "es": "Los pagos mensuales típicos de un préstamo para vivienda comprenden entre un mínimo de [XX] meses y un máximo de [XX] meses."
+  },
+  "calc-output-title": {
+    "en": "Your monthly payment will be:",
+    "es": "Su pago mensual será"
+  },
+  "calc-output-per-month": {
+    "en": "per month",
+    "es": "al mes"
+  },
+  "calc-output-for": {
+    "en": "for",
+    "es": "para"
+  },
+  "calc-output-month": {
+    "en": "month",
+    "es": "mes"
+  },
+  "calc-submit-btn": {
+    "en": "Continue to Pre-Qualification Process",
+    "es": "Continuar al Proceso de Precalificación"
+  },
+  "calc-empty-calculator": {
+    "en": "Enter an amount and terms to see calculated payment",
+    "es": "Ingrese una cantidad y términos para ver el pago calculado"
+  },
+  "form-title": {
+    "en": "Discover Your Offer in 1 Step",
+    "es": "Descubre tu oferta en un solo paso"
+  },
+  "form-subtitle": {
+    "en": "Please answer these questions to help us determine your loan offers.",
+    "es": "Responde estas preguntas para ayudarnos a determinar las ofertas de préstamos que te corresponden. "
+  },
+  "form-q-1": {
+    "en": "Do you own or rent your house",
+    "es": "¿Eres propietario o rentas tu casa?"
+  },
+  "form-q-1-option-1": {
+    "en": "Own",
+    "es": "Soy propietario"
+  },
+  "form-q-1-option-2": {
+    "en": "Rent",
+    "es": "Rento"
+  },
+  "form-q-2": {
+    "en": "Where do you live?",
+    "es": "¿Dónde vives?"
+  },
+  "form-q-2-option-1": {
+    "en": "Mexico City Metropolitan Area",
+    "es": "Área metropolitana de la Ciudad de México"
+  },
+  "form-q-2-option-2": {
+    "en": "Guadalajara Metropolitan Area",
+    "es": "Área metropolitana de Guadalajara"
+  },
+  "form-q-3": {
+    "en": "What is your average monthly household income?",
+    "es": "¿Cuál es tu ingreso familiar mensual promedio?"
+  },
+  "form-amount-placeholder": {
+    "en": "Enter amount",
+    "es": "Ingresar monto"
+  },
+  "form-q-4": {
+    "en": "What are the average monthly expenses of you and your family's needs?",
+    "es": "¿En promedio, cuáles son los gastos mensuales de tus necesidades y las de tu familia?"
+  },
+  "form-q-4-helper": {
+    "en": "(i.e. utilities, food, education, childcare, etc.)",
+    "es": "(es decir, servicios públicos, alimentos, educación, cuidado de niños, etc.)"
+  },
+  "form-q-5": {
+    "en": "Do you have any unpaid loans to a bank or other financial institution?",
+    "es": "¿Tiene algún préstamo en atrasos a un banco u otra institución financiera?"
+  },
+  "form-q-6": {
+    "en": "Which of the following reasons would your loan be used for?",
+    "es": "¿Para cuál de los siguientes motivos utilizaras el préstamo?"
+  },
+  "form-q-6-option-1": {
+    "en": "Improvement",
+    "es": "Mejora"
+  },
+  "form-q-6-option-1-helper": {
+    "en": "(e.g. painting, floor tiles, waterproof coating, new doors or windows. May also include major improvements: e.g, changing a tin roof to a concrete slab, etc.)",
+    "es": "(p. ej., pintura, azulejos, revestimiento impermeable, puertas o ventanas nuevas. También puede incluir mejoras importantes: p. ej., cambiar un techo de estaño por una losa de concreto, etc.)"
+  },
+  "form-q-6-option-2": {
+    "en": "Expansion",
+    "es": "Ampliación"
+  },
+  "form-q-6-option-2-helper": {
+    "en": "(e.g. adding a new room, bathroom, kitchen, a second floor, staircase, etc.)",
+    "es": "(p. ej., agregar una habitación, un baño o una cocina más, un segundo piso, escalera, etc.)"
+  },
+  "form-q-7": {
+    "en": "Would you be open to receive some advice on how to complete your home improvement, remodeling and/or expansion?",
+    "es": "¿Estarías dispuesto a recibir algunos consejos sobre cómo completar la mejora, remodelación o ampliación de su vivienda?"
+  },
+  "form-helper-yes": {
+    "en": "Yes",
+    "es": "Sí"
+  },
+  "form-helper-other": {
+    "en": "Other",
+    "es": "Otro"
+  },
+  "form-action-continue": {
+    "en": "Continue",
+    "es": "Continuar"
+  },
+  "form-action-back": {
+    "en": "Back to Home",
+    "es": "De vuelta a casa"
+  },
+  "form-validator-general": {
+    "en": "Please answer all of the questions.",
+    "es": "Por favor conteste todas las preguntas"
+  },
+  "form-validator-disqualify": {
+    "en": "Based on the answers you entered, we need more information.",
+    "es": "Según las respuestas que ingresaste, necesitamos más información."
+  },
+  "form-validator-location": {
+    "en": "Currently, we only service homes that are owned in Mexico City and Guadalajara Metropolitan area.",
+    "es": "Actualmente, solo damos  servicio a viviendas que son parte del área metropolitana de la Ciudad de México y Guadalajara."
+  },
+  "form-validator-interested": {
+    "en": "To discuss your application process and specific loan amount, please leave your information below and we will contact you.",
+    "es": "Para hablar sobre su proceso de solicitud y el monto específico del préstamo, es necesario que deje su información a continuación y nos contactaremos con usted."
+  },
+  "form-validator-qualified": {
+    "en": "🎉 Congrats! You're pre-qualified.",
+    "es": "🎉 ¡Felicitaciones! Has recibido la precalificación."
+  },
+  "form-collect-name": {
+    "en": "Full Name",
+    "es": "Nombre"
+  },
+  "form-collect-phone": {
+    "en": "Cell Phone",
+    "es": "Teléfono celular"
+  },
+  "form-collect-email": {
+    "en": "Email",
+    "es": "Correo electrónico"
+  },
+  "form-submit": {
+    "en": "Submit",
+    "es": "Enviar"
+  },
+  "form-thank-you-title": {
+    "en": "Thank you!",
+    "es": "¡Gracias!"
+  },
+  "form-thank-you-message": {
+    "en": "One of our team members will be in contact with you soon.",
+    "es": "Uno de los miembros de nuestro equipo se comunicará contigopronto."
+  }
+}
