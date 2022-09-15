@@ -32,7 +32,7 @@ function Calculator() {
           ${calculatePayment()} MXN <br /> {local('calc-output-per-month')}
         </p>
         <p className="text-3xl font-semibold">
-        {local('calc-output-for')} {term} {local('calc-output-month')}{term > 1 ? 's' : ''}
+        {local('calc-output-for')} {term} {local('calc-output-month')}{term > 1 ? 'es' : ''}
         </p>
       </div>
     );

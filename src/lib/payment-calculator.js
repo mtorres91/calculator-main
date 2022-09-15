@@ -5,8 +5,26 @@ export const paymentCalculator = (loanAmount, term) => {
   const air     = .6; // Annual Interest Rate
   const iva     = .16; // Initial Value Added Tax
 
-  // Calculate Payment
-  const calculatedPayment = PMT(air/12*(1+iva),term,(-loanAmount),0,0);
+  var Tas = (.050*1.16);
+
+  // calculate Payment OF
+  if(loanAmount<=80000){
+    Tas=(.050*1.16);
+  }
+  if(loanAmount>80000){
+    
+    Tas=(.0490*1.16);
+  }
+  if(loanAmount>120000){
+    Tas=(.047*1.16);
+  }
+  if(loanAmount>200000){
+    Tas=(.045*1.16);
+  }  
+  if(loanAmount>300000){
+    Tas=(.040*1.16);
+  }  
+  const calculatedPayment = PMT(Tas,term,(-loanAmount),0,0);
 
   // Check for NAN (bad term, etc)
   const cpNotNaN = isNaN(calculatedPayment) ? 0 : calculatedPayment;
