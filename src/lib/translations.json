@@ -8,8 +8,8 @@
     "es": "¿Qué monto de préstamo para negocio necesitas?"
   },
   "calc-loan-subtitle": {
-    "en": "Typical home loan amounts range from a minimum of 5,000 MXN to a maximum of 80,000 MXN.",
-    "es": "Los montos típicos de préstamos para negocio son entre un mínimo de 50000 MXN y un máximo de 300 000 MXN."
+    "en": "Typical home loan amounts range from a minimum of 50,000 MXN to a maximum of 300,000 MXN.",
+    "es": "Los montos de préstamos para negocio son entre un mínimo de 50000 MXN y un máximo de 300 000 MXN."
   },
   "calc-term-title": {
     "en": "How many monthly payments do you want to make?",
@@ -17,7 +17,7 @@
   },
   "calc-term-subtitle": {
     "en": "Typical home loan monthly payments range from a minimum of X months to a maximum of X months.",
-    "es": "Los pagos mensuales típicos de un préstamo para negocio comprenden entre un mínimo de 12 meses y un máximo de 36 meses."
+    "es": "Los pagos mensuales de un préstamo para negocio comprenden entre un mínimo de 12 meses y un máximo de 36 meses."
   },
   "calc-output-title": {
     "en": "Your monthly payment will be:",
