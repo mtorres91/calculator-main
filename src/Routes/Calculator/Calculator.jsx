@@ -115,7 +115,7 @@ function Calculator() {
       </div>
 
       <div className="mt-16 text-center">
-        <a href={`${constants.appUrl}/form`} target="_blank">
+        <a href={`${constants.appUrl}`} target="_blank">
           <button
             type="button"
             className="lg:w-1/2 justify-center inline-flex items-center px-10 py-5 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-primary hover:bg-primary focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary uppercase"
